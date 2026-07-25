@@ -168,7 +168,7 @@ img{ max-width:100%; }
 }
 .btn-primary{ background:var(--amber); color:#1A1200; }
 .btn-primary:hover{ transform:translateY(-2px); box-shadow:0 10px 20px -8px rgba(255,159,28,.55); }
-.btn-ghost{ background:rgba(255,255,255,.08); color:#fff; border:1px solid rgba(255,255,255,.25); }
+.btn-ghost{ background:rgba(255,255,255,.08); color:#c22458; border:1px solid rgba(255,255,255,.25); }
 .btn-ghost:hover{ background:rgba(255,255,255,.16); }
 .btn-teal{ background:var(--teal); color:#04231F; }
 .btn-teal:hover{ transform:translateY(-2px); box-shadow:0 10px 20px -8px rgba(31,182,168,.5); }
