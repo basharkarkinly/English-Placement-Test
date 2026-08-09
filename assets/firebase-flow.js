@@ -48,10 +48,10 @@ function renderContinuePrompt(resultData){
   wrap.style.marginTop = "16px";
   wrap.innerHTML = `
     <h3>حابب تكمل تتعلم من هالمستوى؟ 🚀</h3>
-    <p style="color:var(--muted);">سجّل حساب بسيط تحفظ فيه تقدمك وتكمل بعدين، أو بلاش هلق بس عطينا رأيك بالتجربة.</p>
+    <p style="color:var(--muted);">اذا حابب تكمل ب دراسة المستويات، نحنا عم نخطط لنعمل كمان شي جديد.. سجل ايميلك لتوصك الاخبار.</p>
     <div class="cta-row" style="justify-content:center; display:flex; gap:14px; flex-wrap:wrap;">
-      <button class="btn btn-primary" id="want-continue-btn">اذا حابب تكمل ب دراسة المستويات، نحنا عم نخطط لنعمل كمان شي جديد.. سجل ايميلك لتوصك الاخبار</button>
-      <button class="btn btn-outline-dark" id="not-now-btn">ممكن بدقيقتين تشاركنا برأيك</button>
+      <button class="btn btn-primary" id="want-continue-btn">سجل ايميلك</button>
+      <button class="btn btn-outline-dark" id="not-now-btn">مو حابب تسجل، ممكن بدقيقتين تشاركنا برأيك</button>
     </div>
     <div id="continue-flow-area" style="margin-top:20px; max-width:420px; margin-left:auto; margin-right:auto;"></div>
   `;
